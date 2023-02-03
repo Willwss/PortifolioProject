@@ -13,10 +13,11 @@ body{
 
 main{
   position: center;
+
 }
 
 .container{
-   
+  background-size: cover;
 }
 
 #will{
