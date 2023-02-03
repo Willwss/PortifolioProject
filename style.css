@@ -1,0 +1,62 @@
+body{
+    background-image: url("imgs/background.png");
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#will{
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    background-image: url(imgs/Willsemfundo-removebg-preview.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 500px;
+    clip-path: inset(173px 50px 180px 50px);
+}
+
+#ssilva{
+    margin-left: 698px;
+    margin-top: -380px;
+    margin-bottom: auto;
+    margin-right: auto;
+    background-image: url(imgs/SSilvasemfundo-removebg-preview.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 500px;
+    clip-path: inset(211px 69px 214px 69px);
+    
+    
+}
+
+#linhazul{
+    margin-left: 650px ;
+    margin-top: -680px;
+    margin-bottom: auto;
+    margin-right:100px;
+    background-image: url(imgs/Linhasemfundo.png);
+    width: 500px;
+    height: 500px;
+    clip-path: inset(498px 0px 0px 98px);
+    
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
